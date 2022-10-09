@@ -1,0 +1,24 @@
+.table {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  color: black;
+  border: 2px solid slategray;
+}
+
+.filterdiv {
+  width: 80%;
+  color: darkmagenta;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  align-items: center;
+}
+
+.error {
+  color: red;
+  margin-top: 5%;
+  text-align: center;
+  font-size: x-large;
+}
